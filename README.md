@@ -1,5 +1,7 @@
 <h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=BA48B9&background=38B965&center=true&vCenter=true&width=435&lines=Welcome+To+Team+Turner+Solutions;I'm+a+Solutions+Architect;Who+is+ready+to+build+anything+you+can+dream+up" alt="Typing SVG" /></a>
+
 #### 👋 Hello, I'm James with Team Turner Solutions!
 _AWS Re/Start graduate, Core Values Award winner, network automation enthusiast, and AI-driven IoT explorer._
 
