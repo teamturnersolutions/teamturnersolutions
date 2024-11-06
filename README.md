@@ -9,16 +9,22 @@ With a background in AWS and network engineering, I’m on a mission to build se
 
 ---
 
-<h3 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h3> 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <img alt="GIF description" src="./Skills_Animation_White.gif">
+  </picture>
+</div>
 
 ---
 
 <h3 align="center">🔧 Technologies & Tools</h3>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=flat&logo=proxmox&logoColor=white)
+<p align="center">
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+  ![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=flat&logo=proxmox&logoColor=white)
+</p>
 
 ---
 
@@ -39,17 +45,3 @@ With a background in AWS and network engineering, I’m on a mission to build se
 
 ---
 
-<!--
-**teamturnersolutions/teamturnersolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
