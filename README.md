@@ -17,6 +17,8 @@ With a background in AWS and network engineering, I’m on a mission to build se
 </picture>
 <br />
 
+---
+
 <h3 align="left">Current Learning</h3>
 <ul align="left">
   <li>Deepening my knowledge in Machine Learning and AI.</li>
