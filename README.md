@@ -105,6 +105,6 @@ With a background in AWS and network engineering, I’m on a mission to build se
 </svg>
 
 <br><br>
-<img src="Images/Dynamic/snake.svg" style="background:#161b22;">
+<img src="snake.svg" style="background:#161b22;">
 <br><br><br><br>
 
