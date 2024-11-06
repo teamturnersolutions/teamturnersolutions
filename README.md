@@ -21,7 +21,7 @@ With a background in AWS and network engineering, I’m on a mission to build se
 
 ---
 
-<h3 align="center">🔧 Technologies & Tools</h3>
+<h3 align="center">🔧 Homelab Technologies</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
@@ -31,27 +31,20 @@ With a background in AWS and network engineering, I’m on a mission to build se
 ---
 
 <h3 align="center">🚀 Current Projects</h3>
+<p align="center">
 - **IoT/VR Integration**: Building a seamless bridge for virtual control of physical spaces.
 - **NetBox Automation**: A development environment optimized for dynamic network control.
 - **Home Assistant Edge AI**: Exploring AI integrations for continuous, real-time status tracking.
+</p>
 
----
-
-### 📊 GitHub Stats
-[![GitHub Streak](https://git-readme-streak-stats.herokuapp.com/?user=yourusername)](https://git.io/streak-stats)
-
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teamturnersolutions/) 
-
----
 
 <!--Tech stack: start-->
+<h3 align="center">Developed Skills</h3>
+<p align="center">
 <img src="img/tech_stack.png">
 
 <img src="https://skillicons.dev/icons?i=java,php,dart,python,kotlin,bash,md,html,css,js,mysql,postgres,laravel,vue,pinia,gradle,flutter,tailwind,alpinejs,git,github,firebase,heroku,androidstudio,vscode,vim,idea,ai,ps,linux&perline=15" />
-
+</p>
 <!--Tech stack: end-->
 
 <div align="center">
