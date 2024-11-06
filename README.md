@@ -14,7 +14,7 @@ With a background in AWS and network engineering, I’m on a mission to build se
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-<br />
+
 
 ---
 
