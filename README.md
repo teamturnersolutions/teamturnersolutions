@@ -8,19 +8,18 @@ _AWS Re/Start graduate, Core Values Award winner, network automation enthusiast,
 With a background in AWS and network engineering, I’m on a mission to build seamless digital infrastructure that bridges virtual and physical worlds. My projects explore IoT, VR/XR, and local AI for automation.
 
 ---
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+
+<h3 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h3> 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 
-
 ---
 
-<h3 align="center">Technologies & Tools</h3>
+<h3 align="center">🔧 Technologies & Tools</h3>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=flat&logo=proxmox&logoColor=white)
-<!-- add more badges here -->
+
 ---
 
 <h3 align="center">🚀 Current Projects</h3>
@@ -30,12 +29,12 @@ With a background in AWS and network engineering, I’m on a mission to build se
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)](https://git.io/streak-stats)
+### 📊 GitHub Stats
+[![GitHub Streak](https://git-readme-streak-stats.herokuapp.com/?user=yourusername)](https://git.io/streak-stats)
 
 ---
 
-<h3 align="center">📫 Connect with Me</h3> 
+### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
