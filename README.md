@@ -1,5 +1,6 @@
-## Hi there 👋
-# 👋 Hello, I'm James with Team Turner Solutions!
+<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+#### 👋 Hello, I'm James with Team Turner Solutions!
 _AWS Re/Start graduate, Core Values Award winner, network automation enthusiast, and AI-driven IoT explorer._
 
 ---
@@ -41,6 +42,45 @@ With a background in AWS and network engineering, I’m on a mission to build se
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teamturnersolutions/) 
 
 ---
+
+<!--Tech stack: start-->
+<img src="img/tech_stack.png">
+
+<img src="https://skillicons.dev/icons?i=java,php,dart,python,kotlin,bash,md,html,css,js,mysql,postgres,laravel,vue,pinia,gradle,flutter,tailwind,alpinejs,git,github,firebase,heroku,androidstudio,vscode,vim,idea,ai,ps,linux&perline=15" />
+
+<!--Tech stack: end-->
+
+<div align="center">
+<img src="img/hero_banner.svg">
+
+<!-- uncomment to change banner
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:4CB8C4,100:3CD3AD&height=300&section=header&text=Muhammad%20Faizan&fontSize=90&fontColor=FCFFE7" />
+-->
+
+---
+
+<!--Header: end-->
+
+<!--Social Links Badges: start-->
+
+<a href="https://github.com/teamturnersolutions">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+</a>
+<a href="https://linkedin.com/in/teamturnersolutions">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+</a>  
+
+<!--Social Links Badges: end-->
+
+<!--About me: start-->
+<img src="img/hi_there.png">
+
+
+
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Nadeem+Sarwar..;Microsoft+Student+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    
