@@ -21,9 +21,9 @@ With a background in AWS and network engineering, I’m on a mission to build se
 
 <h3 align="center">🔧 Technologies & Tools</h3>
 <p align="center">
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
-  ![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=flat&logo=proxmox&logoColor=white)
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Proxmox-%23E57000.svg?style=flat&logo=proxmox&logoColor=white" alt="Proxmox" />
 </p>
 
 ---
@@ -44,4 +44,3 @@ With a background in AWS and network engineering, I’m on a mission to build se
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
-
