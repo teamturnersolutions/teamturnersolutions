@@ -19,6 +19,7 @@ With a background in AWS and network engineering, I’m on a mission to build se
 ---
 
 <h2 align="center">🔧 Technologies & Tools</h2>
+###
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=flat&logo=proxmox&logoColor=white)
 <!-- add more badges here -->
 
